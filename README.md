@@ -1,7 +1,37 @@
-# destiny_app
+# Destiny App
 
-A new Flutter project.
-
+Home Page :
+<br />
+<br />
+<img src="Screenshot.png" width="230" height="450
+" align="left" align="top">
+<img src="Screenshot2.png" width="230" height="450
+" align="left" align="top">
+<img src="Screenshot3.png" width="230" height="450
+" align="left" align="top">
+<img src="Screenshot4.png" width="230" height="450
+" align="left" align="top">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ## Getting Started
 
 This project is a starting point for a Flutter application.
